@@ -9,7 +9,7 @@ http.createServer(function (request, response) {
 
    // Send the response body as "Hello World"
    response.end('Hello SWDV-660 friends!!!!11!\n')
-}).listen(3000)
+}).listen(3333)
 
 // Console will print the message
 console.log('Server running')
